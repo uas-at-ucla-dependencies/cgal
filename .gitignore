@@ -1076,7 +1076,6 @@ cmake_install.cmake
 
 # Sub-directories used by Visual Studio to put binaries:
 debug
-release
 Debug
 Release
 x64
